@@ -1,0 +1,10 @@
+.mc {
+  display: flex;
+  flex-direction: row;
+}
+.mc > p {
+  margin-right: 50px;
+}
+.kk {
+  margin-right: 100px;
+}
